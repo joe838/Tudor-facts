@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+@import url('https://fonts.googleapis.com/css?family=sans seif');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+html{
+    font-family: 'Lato', sans-serif;
+    
+}
+h1{
+    color: yellow; 
+    text-align:center;
+    background-color:purple;
+    border:5px solid black;
+    border-radius: 16px;
+    font-size: 100px;
+    font-family: 'Bangers', cursive;
+}
+.Float{
+    float: left;
+    width: 348px;
+    height: 500px;
+}
+h2{
+    color: yellow; 
+    text-align:center;
+    background-color:purple;
+    border: 5px solid black;
+    border-radius: 16px;
+    font-size: 50px;
+    font-family: 'Bangers', cursive;
+}
+body{
+    background-color: cornsilk;
+}
