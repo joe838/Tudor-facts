@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Bangers');
 @import url('https://fonts.googleapis.com/css?family=sans serif');
 @import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
 html{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
     
 }
 h1{
