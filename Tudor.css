@@ -8,9 +8,9 @@ html{
     
 }
 h1{
-    color: red; 
+    color: yellow; 
     text-align:center;
-    background-color:yellow;
+    background-color:rebeccapurple;
     border:5px solid black;
     border-radius: 16px;
     font-size: 100px;
