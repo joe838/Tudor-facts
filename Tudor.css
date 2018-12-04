@@ -7,9 +7,9 @@ html{
     
 }
 h1{
-    color: yellow; 
+    color: red; 
     text-align:center;
-    background-color:purple;
+    background-color:yellow;
     border:5px solid black;
     border-radius: 16px;
     font-size: 100px;
@@ -21,9 +21,9 @@ h1{
     height: 500px;
 }
 h2{
-    color: yellow; 
+    color: red; 
     text-align:center;
-    background-color:purple;
+    background-color:yellow;
     border: 5px solid black;
     border-radius: 16px;
     font-size: 50px;
