@@ -22,9 +22,9 @@ h1{
     height: 500px;
 }
 h2{
-    color: red; 
+    color: yellow; 
     text-align:center;
-    background-color:yellow;
+    background-color:purple;
     border: 5px solid black;
     border-radius: 16px;
     font-size: 50px;
